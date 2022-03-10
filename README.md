@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Jonh Sousa and my nickname is "jonhcomnh"!
+### My name is Jonh Sousa and my nickname is "jonh-with-nh"!
 
 - 🔭 I’m currently working at B4A
 - 🌱 I’m currently learning Leadership topics and more about web and mobile development
