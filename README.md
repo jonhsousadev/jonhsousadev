@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Jonh Sousa, welcome to my Github profile
-<p>I'm a Full stack developer and Software Engineer from Brazil.</br>I’m currently learning Leadership topics and more about web and mobile development</p>
-- 🔭 I’m currently working at B4A</br>
-- 🌱 I’m currently learning Leadership topics and more about web and mobile development</br>
-- 👯 I’m looking to collaborate on great projects in my company</br>
+<p>I'm a Full stack developer and Software Engineer from Brazil.</br>Currently learning Leadership topics and more about web and mobile development</p>
+- 🔭 Working at B4A</br>
+- 🌱 Learning Leadership topics and more about web and mobile development</br>
+- 👯 Looking to collaborate on great projects in my company</br>
 - 💬 Ask me about web and mobile and we'll have a good conversation with some coffee (or beer....rsrs).</br>
 - 😄 Pronouns: He/His</br>
 
