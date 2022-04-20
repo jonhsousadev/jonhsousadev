@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Jonh Sousa, welcome to my Github profile
-<h3 align="center">I'm a Full stack developer and Software Engineer from Brazil. I’m currently learning Leadership topics and more about web and mobile development</h3>
+<p>I'm a Full stack developer and Software Engineer from Brazil.</br>I’m currently learning Leadership topics and more about web and mobile development</p>
 - 🔭 I’m currently working at B4A</br>
 - 🌱 I’m currently learning Leadership topics and more about web and mobile development</br>
 - 👯 I’m looking to collaborate on great projects in my company</br>
