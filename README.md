@@ -1,11 +1,10 @@
-## 👋 Hello! Welcome to my Github profile.
-<h1 align="center">Hi 👋, I'm Jonh Sousa, welcome to my Github profile</h1>
+## Hi 👋, I'm Jonh Sousa, welcome to my Github profile
 <h3 align="center">I'm a Full stack developer and Software Engineer from Brazil. I’m currently learning Leadership topics and more about web and mobile development</h3>
-- 🔭 I’m currently working at B4A
-- 🌱 I’m currently learning Leadership topics and more about web and mobile development
-- 👯 I’m looking to collaborate on great projects in my company
-- 💬 Ask me about web and mobile and we'll have a good conversation with some coffee (or beer....rsrs).
-- 😄 Pronouns: He/His
+- 🔭 I’m currently working at B4A</br>
+- 🌱 I’m currently learning Leadership topics and more about web and mobile development</br>
+- 👯 I’m looking to collaborate on great projects in my company</br>
+- 💬 Ask me about web and mobile and we'll have a good conversation with some coffee (or beer....rsrs).</br>
+- 😄 Pronouns: He/His</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
