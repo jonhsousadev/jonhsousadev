@@ -7,6 +7,7 @@
 - 💬 Ask me about web and mobile and we'll have a good conversation with some coffee (or beer....rsrs).
 - 😄 Pronouns: He/His
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonhsousadev)](https://github.com/jonhsousadev/github-readme-stats)
 
 ### Contact me
 <div>
