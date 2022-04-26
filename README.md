@@ -11,8 +11,8 @@
 
 <div>
 <a href="https://github.com/jonhsousadev">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhsousadev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jonhsousadev&show_icons=true&theme=dracula&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhsousadev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonhsousadev&show_icons=true&theme=dracula&count_private=true"/>
 </div>
 
 ### Contact me
