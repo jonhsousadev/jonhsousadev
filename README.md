@@ -3,7 +3,7 @@
 - 🔭 Working at B4A</br>
 - 🌱 Learning Leadership topics and more about web and mobile development</br>
 - 👯 Looking to collaborate on great projects in my company</br>
-- 💬 Ask me about web and mobile and we'll have a good conversation with some coffee (or beer....rsrs).</br>
+- 💬 Ask me about web and mobile and we'll have a good conversation with some coffee.</br>
 - 😄 Pronouns: He/His</br>
 
 <h3 align="left">Languages and Tools:</h3>
