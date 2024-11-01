@@ -1,5 +1,5 @@
-## Hi 👋, I'm Jonh Sousa. Welcome to my Github profile!
-<p>I'm a Full Stack Developer and Software Engineer from Brazil. Welcome to my GitHub!</p>
+## Hi 👋, I'm Jonh Sousa. Welcome to my Github!
+<p>I'm a Full Stack Developer and Software Engineer from Brazil.</p>
 - 🔭 Working mainly with JavaScript, TypeScript and related topics</br>
 - 🌱 Exploring topics in leadership, alongside web and mobile development</br>
 - 👯 Eager to collaborate on exciting projects with my team and beyond</br>
