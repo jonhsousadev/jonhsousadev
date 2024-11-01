@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Jonh Sousa. Welcome to my Github profile!
 <p>I'm a Full stack developer and Software Engineer from Brazil.</p>
-- 🔭 Working at iBos</br>
+- 🔭 Working mainly with JavaScript, TypeScript and related topics</br>
 - 🌱 Learning Leadership topics and more about web and mobile development</br>
 - 👯 Looking to collaborate on great projects in my company</br>
 - 💬 Ask me about web and mobile and we'll have a good conversation with some coffee.</br>
