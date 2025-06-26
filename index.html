@@ -6,15 +6,29 @@
     <title>Jonh Sousa - Meu Espaço Digital</title>
     <link rel="stylesheet" href="style.css" />
 
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Portfólio de Jonh Sousa, Engenheiro de Software Full Stack com 10+ anos de experiência em soluções escaláveis. Tech Lead, Product Owner e Mentor. Especialista em JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker." />
-    <meta name="keywords" content="Jonh Sousa, Portfólio, Engenheiro de Software, Full Stack, JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker, Tech Lead, Product Owner, Mentoria Tech, Desenvolvimento Web, Programador" />
+    <meta
+      name="description"
+      content="Portfólio de Jonh Sousa, Engenheiro de Software Full Stack com 10+ anos de experiência em soluções escaláveis. Tech Lead, Product Owner e Mentor. Especialista em JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker."
+    />
+    <meta
+      name="keywords"
+      content="Jonh Sousa, Portfólio, Engenheiro de Software, Full Stack, JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker, Tech Lead, Product Owner, Mentoria Tech, Desenvolvimento Web, Programador"
+    />
     <meta name="author" content="Jonh Sousa" />
 
-    <link rel="icon" type="image/png" href="assets/images/favicon-96x96.png" sizes="96x96" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="assets/images/favicon-96x96.png"
+      sizes="96x96"
+    />
     <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg" />
     <link rel="shortcut icon" href="assets/images/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/images/apple-touch-icon.png"
+    />
     <link rel="manifest" href="assets/images/site.webmanifest" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -33,8 +47,10 @@
             alt="Minha foto"
             class="profile-img"
           />
-          <h1 class="profile-name">Jonh Sousa</h1>
-          <p class="profile-title">Engenheiro de Software</p>
+          <h1 class="profile-name" data-i18n="profileName">Jonh Sousa</h1>
+          <p class="profile-title" data-i18n="profileTitle">
+            Engenheiro de Software
+          </p>
         </div>
 
         <div class="social-links">
@@ -86,29 +102,29 @@
 
         <div class="sidebar-details">
           <div class="sidebar-section">
-            <h2>Minha Stack Principal</h2>
-            <p class="tech-stack">
+            <h2 data-i18n="stackTitle">Minha Stack Principal</h2>
+            <p class="tech-stack" data-i18n="stackContent">
               JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD,
               Docker.
             </p>
           </div>
 
           <div class="sidebar-section">
-            <h2>Habilidades Interpessoais</h2>
+            <h2 data-i18n="softSkillsTitle">Habilidades Interpessoais</h2>
             <ul class="soft-skills-list">
-              <li>Liderança Técnica</li>
-              <li>Gestão de Produtos</li>
-              <li>Mentoria de Carreira</li>
-              <li>Comunicação Estratégica</li>
-              <li>Resolução de Problemas</li>
+              <li data-i18n="softSkills[0]">Liderança Técnica</li>
+              <li data-i18n="softSkills[1]">Gestão de Produtos</li>
+              <li data-i18n="softSkills[2]">Mentoria de Carreira</li>
+              <li data-i18n="softSkills[3]">Comunicação Estratégica</li>
+              <li data-i18n="softSkills[4]">Resolução de Problemas</li>
             </ul>
           </div>
 
           <div class="sidebar-section">
-            <h2>Idiomas</h2>
+            <h2 data-i18n="languagesTitle">Idiomas</h2>
             <ul class="languages-list">
-              <li>Português (Nativo)</li>
-              <li>Inglês (Avançado)</li>
+              <li data-i18n="languages[0]">Português (Nativo)</li>
+              <li data-i18n="languages[1]">Inglês (Avançado)</li>
             </ul>
           </div>
         </div>
@@ -134,43 +150,57 @@
       <main class="main-content">
         <header class="main-header">
           <nav>
-            <a href="#" class="nav-link active" data-tab="sobre">Sobre Mim</a>
-            <a href="#" class="nav-link" data-tab="curriculo">Currículo</a>
+            <a
+              href="#"
+              class="nav-link active"
+              data-tab="sobre"
+              data-i18n="navAbout"
+              >Sobre Mim</a
+            >
+            <a
+              href="#"
+              class="nav-link"
+              data-tab="curriculo"
+              data-i18n="navResume"
+              >Currículo</a
+            >
           </nav>
         </header>
 
         <div class="content">
           <section id="sobre" class="tab-content active">
-            <h2>Sobre Mim</h2>
-            <p>
+            <h2 data-i18n="aboutTitle">Sobre Mim</h2>
+            <p data-i18n="aboutP1">
               Sou Engenheiro de Software Full Stack com 10+ anos de experiência
               em soluções escaláveis de alto desempenho, combinando visão
               técnica e estratégica para transformar ideias em produtos digitais
               de impacto.
             </p>
-            <p>
+            <p data-i18n="aboutP2">
               Atuo como Tech Lead, Product Owner e Mentor em Carreira Tech
               (Mentoria SMART), ajudando profissionais e empresas a atingirem
               excelência em tecnologia e gestão de produtos. Minha stack
               principal inclui JavaScript, TypeScript, Next.js, Vue.js, Node.js,
               NestJS, CI/CD e Docker.
             </p>
-            <p>
+            <p data-i18n="aboutP3">
               Além do teclado, dedico meu tempo à família — sou pai, esposo e
               pai de pet 🐾. Nas horas vagas, aprecio uma boa leitura,
               caminhadas ao ar livre e os dias de sol na praia.
             </p>
-            <p>
+            <p data-i18n="aboutP4">
               💡 Aberto a novas conexões, parcerias em projetos desafiadores,
               consultorias e mentorias para desenvolvimento de produtos ou
               carreira tech.
             </p>
-            <p>🚀 Vamos conversar?</p>
+            <p data-i18n="aboutP5">🚀 Vamos conversar?</p>
           </section>
 
           <section id="curriculo" class="tab-content">
-            <h2>Currículo</h2>
-            <p>Você pode visualizar e baixar meu currículo completo abaixo.</p>
+            <h2 data-i18n="resumeTitle">Currículo</h2>
+            <p data-i18n="resumeP">
+              Você pode visualizar e baixar meu currículo completo abaixo.
+            </p>
 
             <div class="resume-container desktop-only">
               <iframe
@@ -182,7 +212,11 @@
             </div>
 
             <div class="resume-link mobile-only">
-              <a href="assets/documents/cv.pdf" target="_blank" class="btn-cv"
+              <a
+                href="assets/documents/cv.pdf"
+                target="_blank"
+                class="btn-cv"
+                data-i18n="resumeBtn"
                 >Abrir Currículo (PDF)</a
               >
             </div>
@@ -191,16 +225,44 @@
       </main>
     </div>
 
-    <button
-      class="theme-toggle"
-      id="theme-toggle"
-      title="Alterar tema"
-    ></button>
+    <div class="floating-controls">
+      <div class="language-switcher">
+        <button class="lang-button" data-lang="pt-BR" title="Português">
+          <svg viewBox="0 0 22 15" xmlns="http://www.w3.org/2000/svg">
+            <rect width="22" height="15" fill="#009246" />
+            <path
+              d="M11 1.875L20.625 7.5L11 13.125L1.375 7.5L11 1.875Z"
+              fill="#FDD116"
+            />
+            <circle cx="11" cy="7.5" r="2.5" fill="#002776" />
+          </svg>
+        </button>
+        <button class="lang-button" data-lang="en-US" title="English">
+          <svg viewBox="0 0 22 15" xmlns="http://www.w3.org/2000/svg">
+            <rect width="22" height="15" fill="#B22234" />
+            <rect width="22" height="1.07" y="2.14" fill="#FFFFFF" />
+            <rect width="22" height="1.07" y="4.28" fill="#B22234" />
+            <rect width="22" height="1.07" y="6.42" fill="#FFFFFF" />
+            <rect width="22" height="1.07" y="8.56" fill="#B22234" />
+            <rect width="22" height="1.07" y="10.7" fill="#FFFFFF" />
+            <rect width="22" height="1.07" y="12.84" fill="#B22234" />
+            <rect width="8.8" height="7.5" fill="#3C3B6E" />
+          </svg>
+        </button>
+      </div>
+      <button
+        class="theme-toggle"
+        id="theme-toggle"
+        data-i18n-title="themeToggleTitle"
+        title="Alterar tema"
+      ></button>
+    </div>
 
     <a
       href="https://wa.me/5585991633993"
       class="whatsapp-float"
       target="_blank"
+      data-i18n-title="whatsappTitle"
       title="Fale comigo no WhatsApp"
     >
       <svg
