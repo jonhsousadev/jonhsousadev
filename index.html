@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jonh Sousa - Meu Espaço Digital</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Portfólio de Jonh Sousa, Engenheiro de Software Full Stack com 10+ anos de experiência em soluções escaláveis. Tech Lead, Product Owner e Mentor. Especialista em JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker." />
+    <meta name="keywords" content="Jonh Sousa, Portfólio, Engenheiro de Software, Full Stack, JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker, Tech Lead, Product Owner, Mentoria Tech, Desenvolvimento Web, Programador" />
+    <meta name="author" content="Jonh Sousa" />
+
+    <link rel="icon" type="image/png" href="assets/images/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg" />
+    <link rel="shortcut icon" href="assets/images/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png" />
+    <link rel="manifest" href="assets/images/site.webmanifest" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <aside class="sidebar">
+        <div class="profile">
+          <img
+            src="assets/images/profile.jpeg"
+            alt="Minha foto"
+            class="profile-img"
+          />
+          <h1 class="profile-name">Jonh Sousa</h1>
+          <p class="profile-title">Engenheiro de Software</p>
+        </div>
+
+        <div class="social-links">
+          <a
+            href="https://github.com/jonhsousadev"
+            target="_blank"
+            title="GitHub"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path
+                d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"
+              ></path>
+            </svg>
+          </a>
+          <a
+            href="https://www.linkedin.com/in/jonhsousa/"
+            target="_blank"
+            title="LinkedIn"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path
+                d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"
+              ></path>
+              <rect x="2" y="9" width="4" height="12"></rect>
+              <circle cx="4" cy="4" r="2"></circle>
+            </svg>
+          </a>
+        </div>
+
+        <div class="sidebar-details">
+          <div class="sidebar-section">
+            <h2>Minha Stack Principal</h2>
+            <p class="tech-stack">
+              JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD,
+              Docker.
+            </p>
+          </div>
+
+          <div class="sidebar-section">
+            <h2>Habilidades Interpessoais</h2>
+            <ul class="soft-skills-list">
+              <li>Liderança Técnica</li>
+              <li>Gestão de Produtos</li>
+              <li>Mentoria de Carreira</li>
+              <li>Comunicação Estratégica</li>
+              <li>Resolução de Problemas</li>
+            </ul>
+          </div>
+
+          <div class="sidebar-section">
+            <h2>Idiomas</h2>
+            <ul class="languages-list">
+              <li>Português (Nativo)</li>
+              <li>Inglês (Avançado)</li>
+            </ul>
+          </div>
+        </div>
+
+        <button class="sidebar-toggle" id="sidebar-toggle">
+          <span>Mostrar mais</span>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="16"
+            height="16"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="3"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+      </aside>
+
+      <main class="main-content">
+        <header class="main-header">
+          <nav>
+            <a href="#" class="nav-link active" data-tab="sobre">Sobre Mim</a>
+            <a href="#" class="nav-link" data-tab="curriculo">Currículo</a>
+          </nav>
+        </header>
+
+        <div class="content">
+          <section id="sobre" class="tab-content active">
+            <h2>Sobre Mim</h2>
+            <p>
+              Sou Engenheiro de Software Full Stack com 10+ anos de experiência
+              em soluções escaláveis de alto desempenho, combinando visão
+              técnica e estratégica para transformar ideias em produtos digitais
+              de impacto.
+            </p>
+            <p>
+              Atuo como Tech Lead, Product Owner e Mentor em Carreira Tech
+              (Mentoria SMART), ajudando profissionais e empresas a atingirem
+              excelência em tecnologia e gestão de produtos. Minha stack
+              principal inclui JavaScript, TypeScript, Next.js, Vue.js, Node.js,
+              NestJS, CI/CD e Docker.
+            </p>
+            <p>
+              Além do teclado, dedico meu tempo à família — sou pai, esposo e
+              pai de pet 🐾. Nas horas vagas, aprecio uma boa leitura,
+              caminhadas ao ar livre e os dias de sol na praia.
+            </p>
+            <p>
+              💡 Aberto a novas conexões, parcerias em projetos desafiadores,
+              consultorias e mentorias para desenvolvimento de produtos ou
+              carreira tech.
+            </p>
+            <p>🚀 Vamos conversar?</p>
+          </section>
+
+          <section id="curriculo" class="tab-content">
+            <h2>Currículo</h2>
+            <p>Você pode visualizar e baixar meu currículo completo abaixo.</p>
+
+            <div class="resume-container desktop-only">
+              <iframe
+                src="assets/documents/cv.pdf"
+                width="100%"
+                height="600px"
+                style="border: none"
+              ></iframe>
+            </div>
+
+            <div class="resume-link mobile-only">
+              <a href="assets/documents/cv.pdf" target="_blank" class="btn-cv"
+                >Abrir Currículo (PDF)</a
+              >
+            </div>
+          </section>
+        </div>
+      </main>
+    </div>
+
+    <button
+      class="theme-toggle"
+      id="theme-toggle"
+      title="Alterar tema"
+    ></button>
+
+    <a
+      href="https://wa.me/5585991633993"
+      class="whatsapp-float"
+      target="_blank"
+      title="Fale comigo no WhatsApp"
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="32"
+        height="32"
+        viewBox="0 0 24 24"
+        fill="white"
+      >
+        <path
+          d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.894 11.892-1.99 0-3.903-.52-5.687-1.475L.057 24zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 4.315 1.731 6.086l.001.004-1.043 3.815 3.897-1.042z"
+        />
+      </svg>
+    </a>
+
+    <script src="script.js"></script>
+  </body>
+</html>
