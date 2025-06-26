@@ -31,6 +31,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
       navAbout: "Sobre Mim",
       navResume: "Currículo",
+      navEbooks: "Ebooks",
+
+      ebooksTitle: "Meus Ebooks",
+      ebooksIntro: "Confira meus ebooks disponíveis para aprimorar suas habilidades e conhecimentos.",
+      ebookBtn: "Comprar Agora",
+      ebook1Title: "Além do Código: Lições da Minha Jornada Dev",
+      ebook1Desc: "\"Além do Código: Lições da Minha Jornada Dev\" não é apenas um eBook técnico. É uma viagem pelas minhas experiências, aprendizados e reflexões como profissional de tecnologia. Ao longo dessas páginas, abro o coração para compartilhar o que vivi, como vejo o mundo e as lições que aprendi na busca por equilíbrio em uma área tão exigente.",
+      ebook2Title: "Além do Código: Um Café no Armário",
+      ebook2Desc: "Produtividade não é só sobre fazer mais. É sobre quando parar também. Este livro é um ensaio sobre equilíbrio—entre trabalho e descanso, entre progresso e reflexão. Falamos sobre o que nos move para frente, nossas velas, e o que nos mantém ancorados, nossas âncoras. Exploramos como o medo de estagnar e a culpa por descansar podem ser vilões, mas também como a pressa em crescer e o trabalho incessante podem nos prender em ciclos perigosos.",
 
       aboutTitle: "Sobre Mim",
       aboutP1:
@@ -70,6 +79,15 @@ document.addEventListener("DOMContentLoaded", () => {
       sidebarToggleHide: "Show less",
       navAbout: "About Me",
       navResume: "Resume",
+      navEbooks: "Ebooks",
+
+      ebooksTitle: "My Ebooks",
+      ebooksIntro: "Check out my available ebooks to enhance your skills and knowledge.",
+      ebookBtn: "Buy Now",
+      ebook1Title: "Beyond the Code: Lessons from My Dev Journey",
+      ebook1Desc: "\"Beyond the Code: Lessons from My Dev Journey\" is not just a technical eBook. It's a journey through my experiences, learnings, and reflections as a technology professional. Throughout these pages, I open my heart to share what I've lived, how I see the world, and the lessons I've learned in the pursuit of balance in such a demanding field.",
+      ebook2Title: "Beyond the Code: A Coffee in the Closet",
+      ebook2Desc: "Productivity isn't just about doing more. It's also about knowing when to stop. This book is an essay on balance—between work and rest, between progress and reflection. We talk about what moves us forward, our sails, and what keeps us anchored, our anchors. We explore how the fear of stagnating and the guilt of resting can be villains, but also how the rush to grow and incessant work can trap us in dangerous cycles.",
       aboutTitle: "About Me",
       aboutP1:
         "I am a Full Stack Software Engineer with 10+ years of experience in scalable, high-performance solutions, combining technical and strategic vision to transform ideas into impactful digital products.",
@@ -144,6 +162,8 @@ document.addEventListener("DOMContentLoaded", () => {
         el.title = t[key];
       }
     });
+
+    themeToggle.title = t.themeToggleTitle;
 
     const sidebarToggleSpan = sidebarToggle.querySelector("span");
     if (sidebarToggleSpan) {
