@@ -132,6 +132,18 @@ document.addEventListener("DOMContentLoaded", () => {
     setTheme(prefersDark ? "dark" : "light");
   }
 
+  const updateSidebarToggleText = () => {
+    if (!sidebarToggle || !sidebar) return;
+    const t = translations[currentLanguage];
+    const isCollapsed = sidebar.classList.contains("is-collapsed");
+    const toggleSpan = sidebarToggle.querySelector("span");
+    if (toggleSpan) {
+      toggleSpan.textContent = isCollapsed
+        ? t.sidebarToggleShow
+        : t.sidebarToggleHide;
+    }
+  };
+
   const setLanguage = (lang) => {
     currentLanguage = lang;
     document.documentElement.lang = lang;
@@ -165,12 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     themeToggle.title = t.themeToggleTitle;
 
-    const sidebarToggleSpan = sidebarToggle.querySelector("span");
-    if (sidebarToggleSpan) {
-      sidebarToggleSpan.textContent = sidebar.classList.contains("is-collapsed")
-        ? t.sidebarToggleShow
-        : t.sidebarToggleHide;
-    }
+    updateSidebarToggleText();
 
     document.querySelectorAll(".lang-button").forEach((button) => {
       if (button.getAttribute("data-lang") === lang) {
@@ -186,27 +193,31 @@ document.addEventListener("DOMContentLoaded", () => {
   const setupSidebarToggle = () => {
     if (!sidebar || !sidebarToggle) return;
 
-    const setSidebarState = () => {
-      if (window.innerWidth <= 900) {
-        sidebar.classList.add("is-collapsed");
-        sidebarToggle.querySelector("span").textContent =
-          translations[currentLanguage].sidebarToggleShow;
-      }
-    };
+    let isSmallScreen = window.innerWidth <= 900;
+
+    if (isSmallScreen) {
+      sidebar.classList.add("is-collapsed");
+    }
+    updateSidebarToggleText();
 
     sidebarToggle.addEventListener("click", () => {
       sidebar.classList.toggle("is-collapsed");
-      const isCollapsed = sidebar.classList.contains("is-collapsed");
-      const t = translations[currentLanguage];
-      sidebarToggle.querySelector("span").textContent = isCollapsed
-        ? t.sidebarToggleShow
-        : t.sidebarToggleHide;
+      updateSidebarToggleText();
     });
 
-    setSidebarState();
-
     window.addEventListener("resize", () => {
-      if (window.innerWidth > 900) sidebar.classList.remove("is-collapsed");
+      const wasSmallScreen = isSmallScreen;
+      isSmallScreen = window.innerWidth <= 900;
+
+      
+      if (isSmallScreen !== wasSmallScreen) {
+        if (isSmallScreen) {
+          sidebar.classList.add("is-collapsed"); 
+        } else {
+          sidebar.classList.remove("is-collapsed"); 
+        }
+        updateSidebarToggleText();
+      }
     });
   };
 
