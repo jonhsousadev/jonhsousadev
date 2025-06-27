@@ -249,4 +249,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   setupSidebarToggle();
+  if (sidebar && "scrollBehavior" in document.documentElement.style) {
+    sidebar.style.scrollBehavior = "smooth";
+  } else if (sidebar) {
+    console.warn("Navegador não suporta 'scroll-behavior: smooth'.");
+  }
 });

@@ -127,6 +127,27 @@ body {
   padding-bottom: 1rem;
   margin-right: -1.5rem;
   padding-right: 1.25rem;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+  }
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 0, 0, 0.2) transparent;
+}
+
+.sidebar-details:hover {
+  scrollbar-color: rgba(0, 0, 0, 0.4) transparent;
 }
 
 .skills {
