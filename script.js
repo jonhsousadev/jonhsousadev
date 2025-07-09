@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       stackTitle: "Minha Stack Principal",
       stackContent:
-        "JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker.",
+        "JavaScript, TypeScript, Angular, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker.",
       softSkillsTitle: "Habilidades Interpessoais",
       softSkills: [
         "Liderança Técnica",
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
       aboutP1:
         "Sou Engenheiro de Software Full Stack com 10+ anos de experiência em soluções escaláveis de alto desempenho, combinando visão técnica e estratégica para transformar ideias em produtos digitais de impacto.",
       aboutP2:
-        "Atuo como Tech Lead, Product Owner e Mentor em Carreira Tech (Mentoria SMART), ajudando profissionais e empresas a atingirem excelência em tecnologia e gestão de produtos. Minha stack principal inclui JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD e Docker.",
+        "Atuo como Tech Lead, Product Owner e Mentor em Carreira Tech (Mentoria SMART), ajudando profissionais e empresas a atingirem excelência em tecnologia e gestão de produtos. Minha stack principal inclui JavaScript, TypeScript, Angular, Next.js, Vue.js, Node.js, NestJS, CI/CD e Docker.",
       aboutP3:
         "Além do teclado, dedico meu tempo à família — sou pai, esposo e pai de pet 🐾. Nas horas vagas, aprecio uma boa leitura, caminhadas ao ar livre e os dias de sol na praia.",
       aboutP4:
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
       themeToggleTitle: "Toggle theme",
       stackTitle: "My Core Stack",
       stackContent:
-        "JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker.",
+        "JavaScript, TypeScript, Angular, Next.js, Vue.js, Node.js, NestJS, CI/CD, Docker.",
       softSkillsTitle: "Interpersonal Skills",
       softSkills: [
         "Technical Leadership",
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", () => {
       aboutP1:
         "I am a Full Stack Software Engineer with 10+ years of experience in scalable, high-performance solutions, combining technical and strategic vision to transform ideas into impactful digital products.",
       aboutP2:
-        "I act as a Tech Lead, Product Owner, and Tech Career Mentor (SMART Mentoring), helping professionals and companies achieve excellence in technology and product management. My core stack includes JavaScript, TypeScript, Next.js, Vue.js, Node.js, NestJS, CI/CD, and Docker.",
+        "I act as a Tech Lead, Product Owner, and Tech Career Mentor (SMART Mentoring), helping professionals and companies achieve excellence in technology and product management. My core stack includes JavaScript, TypeScript, Angular, Next.js, Vue.js, Node.js, NestJS, CI/CD, and Docker.",
       aboutP3:
         "Beyond the keyboard, I dedicate my time to family — I am a father, husband, and pet parent 🐾. In my free time, I enjoy a good book, outdoor walks, and sunny days at the beach.",
       aboutP4:
