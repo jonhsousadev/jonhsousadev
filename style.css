@@ -10,7 +10,7 @@
   --star-color: #f5b32f;
   --border-color: #533e2a;
   --shadow-color: rgba(0, 0, 0, 0.05);
-  --icon-color: #c3660f;
+  --icon-color: #84603f;
   --icon-hover-color: #11120d;
 }
 
@@ -24,7 +24,7 @@ body[data-theme="dark"] {
   --star-color: #f5b32f;
   --border-color: #e2a56c;
   --shadow-color: rgba(0, 0, 0, 0.2);
-  --icon-color: #5e5e5a;
+  --icon-color: #84603f;
   --icon-hover-color: #ffffff;
 }
 
