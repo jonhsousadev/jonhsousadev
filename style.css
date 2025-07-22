@@ -1,30 +1,30 @@
 :root {
   --font-family: "Poppins", sans-serif;
 
-  --bg-color: #f4f7f6;
-  --sidebar-bg-color: #ffffff;
-  --main-bg-color: #ffffff;
-  --text-color: #333333;
-  --title-color: #1a202c;
+  --bg-color: #E1D3C6;
+  --sidebar-bg-color: #E1D3C6;
+  --main-bg-color: #E1D3C6;
+  --text-color: #11120d;
+  --title-color: #11120d;
   --accent-color: #2a5298;
   --star-color: #f5b32f;
   --border-color: #e2e8f0;
   --shadow-color: rgba(0, 0, 0, 0.05);
   --icon-color: #4a5568;
-  --icon-hover-color: #1a202c;
+  --icon-hover-color: #11120d;
 }
 
 body[data-theme="dark"] {
-  --bg-color: #1a202c;
-  --sidebar-bg-color: #2d3748;
-  --main-bg-color: #2d3748;
-  --text-color: #e2e8f0;
+  --bg-color: #2B2C21;
+  --sidebar-bg-color: #2B2C21;
+  --main-bg-color: #2B2C21;
+  --text-color: #fcebdb;
   --title-color: #ffffff;
-  --accent-color: #63b3ed;
+  --accent-color: #e2a56c;
   --star-color: #f5b32f;
-  --border-color: #4a5568;
+  --border-color: #1e1f17;
   --shadow-color: rgba(0, 0, 0, 0.2);
-  --icon-color: #a0aec0;
+  --icon-color: #5e5e5a;
   --icon-hover-color: #ffffff;
 }
 
