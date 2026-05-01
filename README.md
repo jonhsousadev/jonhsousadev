@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jonh%20Sousa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20%7C%20Product%20Mindset%20%7C%20Mentoring&descAlignY=52&descAlign=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+digital+products+with+purpose;Tech+Lead+at+Jobsity+(McGraw+Hill);Supporting+tech+careers+through+mentoring;Neovim+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+digital+products+with+purpose;Software+Engineer+at+Jobsity+(McGraw+Hill);Supporting+tech+careers+through+mentoring;Neovim+enthusiast)](https://git.io/typing-svg)
 
 ---
 
