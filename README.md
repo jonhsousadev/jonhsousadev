@@ -7,31 +7,31 @@
 ---
 
 ### 🌐 [jonhsousa.com.br](https://jonhsousa.com.br)
-*Focado em transformar desafios em soluções reais e escaláveis.*
+*Focused on transforming challenges into real, scalable solutions.*
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Trabalho na intersecção entre engenharia de software e objetivos de produto, buscando sempre o equilíbrio entre código limpo e impacto no negócio. Com mais de uma década na área, acredito que a tecnologia é uma ferramenta para resolver problemas complexos.
+I work at the intersection of software engineering and product goals, always seeking the balance between clean code and business impact. With over a decade in the field, I believe technology is a tool for solving complex problems.
 
-- 🏢 **No momento:** Contribuindo em projetos internacionais de grande escala na **Jobsity (alocado na McGraw Hill)**.
-- 🤝 **Compartilhando:** Mentor de carreira na **SMART Mentoring** e ex-Professor de Pós-Graduação.
-- 🛠️ **Workflow:** Entusiasta de **Neovim** e automação (confira meu setup: [**amity-vim**](https://github.com/jonhsousadev/amity-vim)).
-
----
-
-## 🚀 Como posso somar
-
-- **Desenvolvimento Full Stack:** Experiência sólida com o ecossistema JavaScript (Node.js, TypeScript, Angular e React).
-- **Visão de Produto:** Atuação desde a concepção (PO) até a arquitetura e deploy (CI/CD, Docker).
-- **Liderança Técnica:** Foco em cultura ágil e desenvolvimento de talentos para elevar o nível do time.
+- 🏢 **Currently:** Contributing to large-scale international projects at **Jobsity (assigned to McGraw Hill)**.
+- 🤝 **Sharing:** Career Mentor at **SMART Mentoring** and former Post-Graduate Professor.
+- 🛠️ **Workflow:** **Neovim** enthusiast and automation lover (check out my setup: [**amity-vim**](https://github.com/jonhsousadev/amity-vim)).
 
 ---
 
-## 🛠 Ferramentas & Ecossistema
+## 🚀 How I Can Contribute
+
+- **Full Stack Development:** Solid experience with the JavaScript ecosystem (Node.js, TypeScript, Angular, and React).
+- **Product Vision:** Experience from conception (PO) to architecture and deployment (CI/CD, Docker).
+- **Technical Leadership:** Focused on agile culture and talent development to raise the team's bar.
+
+---
+
+## 🛠 Tools & Ecosystem
 
 ### 🌙 Editor & Environment
 <div align="center">
@@ -58,7 +58,7 @@ Trabalho na intersecção entre engenharia de software e objetivos de produto, b
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Let's Connect
 
 <div align="center">
 
