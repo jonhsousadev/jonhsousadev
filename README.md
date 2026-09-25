@@ -33,7 +33,7 @@ I work at the intersection of software engineering and product goals, always see
 
 <div align="center">
 
-| 📚 **Além do Código** — eBooks | 🎨 **Amethyst Pulse** — VS Code Theme | 🌐 **jonhsousa.com.br** — Blog & Books |
+| 📚 **Além do Código** — eBooks | 🎨 **Amethyst Pulse** — VS Code Theme | 🌐 **jonhsousa.com.br** |
 |:---:|:---:|:---:|
 | Honest reflections on tech career, pressure and balance | 5 variants in purple, cream & orange tones | All my writings, books and contact in one place |
 | [Explore the books ↓](#-my-books--além-do-código-series) | [Get the theme ↓](#-vs-code-extension--amethyst-pulse) | [Visit website](https://jonhsousa.com.br) |
