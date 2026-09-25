@@ -52,10 +52,6 @@ I work at the intersection of software engineering and product goals, always see
 
 ## VS Code Extension — Amethyst Pulse
 
-![Version](https://img.shields.io/visual-studio-marketplace/v/JonhSousa.amethyst-pulse?style=flat-square&label=Marketplace&color=7C3AED)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/JonhSousa.amethyst-pulse?style=flat-square&color=6AD3F7)
-![Rating](https://img.shields.io/visual-studio-marketplace/r/JonhSousa.amethyst-pulse?style=flat-square&color=E07A3F)
-
 **An elegant VS Code theme pack with classic, soft, HC, light and Kanagawa variants — in purple, cream and orange tones.**
 
 *Focused on readable contrast, clear syntax hierarchy, and a consistent visual identity for long coding sessions.*
