@@ -39,37 +39,22 @@ I work at the intersection of software engineering and product goals, always see
 
 > Not technical books. Honest conversations about what no tutorial teaches: self-pressure, balance, rhythm and purpose in tech.
 
-### Alem do Codigo: Licoes da Minha Jornada Dev
-
-[![Cover: Licoes da Minha Jornada Dev](https://www.jonhsousa.com.br/assets/images/ebooks/ebook1.png)](https://www.jonhsousa.com.br/alem-do-codigo-licoes.html)
-
-*eBook · Tech Career*
-
-Self-demand, impact and resilience. Real stories on growing with patience, doing the basics well every day, and turning inner pressure into fuel — not paralysis.
-
-[![Learn More](https://img.shields.io/badge/Learn_More-7C3AED?style=flat-square)](https://www.jonhsousa.com.br/alem-do-codigo-licoes.html)
-
-### Alem do Codigo: Um Cafe no Armario
-
-[![Cover: Um Cafe no Armario](https://www.jonhsousa.com.br/assets/images/ebooks/ebook2.png)](https://www.jonhsousa.com.br/alem-do-codigo-cafe-no-armario.html)
-
-*eBook · Productivity and Balance*
-
-Productivity isn't just about doing more. It's about knowing when to stop. An essay on sails and anchors, rest as part of work, and sustainable rhythm.
-
-[![Learn More](https://img.shields.io/badge/Learn_More-E07A3F?style=flat-square)](https://www.jonhsousa.com.br/alem-do-codigo-cafe-no-armario.html)
+| Licoes da Minha Jornada Dev | Um Cafe no Armario |
+|:---:|:---:|
+| [![Cover: Licoes da Minha Jornada Dev](https://www.jonhsousa.com.br/assets/images/ebooks/ebook1.png)](https://www.jonhsousa.com.br/alem-do-codigo-licoes.html) | [![Cover: Um Cafe no Armario](https://www.jonhsousa.com.br/assets/images/ebooks/ebook2.png)](https://www.jonhsousa.com.br/alem-do-codigo-cafe-no-armario.html) |
+| *eBook · Tech Career* | *eBook · Productivity and Balance* |
+| Self-demand, impact and resilience. Real stories on growing with patience and turning inner pressure into fuel. | Productivity isn't just about doing more. It's about knowing when to stop. An essay on sails and anchors. |
+| [![Learn More](https://img.shields.io/badge/Learn_More-7C3AED?style=flat-square)](https://www.jonhsousa.com.br/alem-do-codigo-licoes.html) | [![Learn More](https://img.shields.io/badge/Learn_More-E07A3F?style=flat-square)](https://www.jonhsousa.com.br/alem-do-codigo-cafe-no-armario.html) |
 
 *50% OFF with coupon `CONEXAO` · 7-day guarantee · Digital eBook via Hotmart*
-
-Start here: [Licoes da Minha Jornada Dev](https://www.jonhsousa.com.br/alem-do-codigo-licoes.html) · [Um Cafe no Armario](https://www.jonhsousa.com.br/alem-do-codigo-cafe-no-armario.html) · [All on jonhsousa.com.br](https://jonhsousa.com.br)
 
 ---
 
 ## VS Code Extension — Amethyst Pulse
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/JonhSousa.amethyst-pulse?style=flat-square&label=Marketplace&color=7C3AED)](https://marketplace.visualstudio.com/items?itemName=JonhSousa.amethyst-pulse)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/JonhSousa.amethyst-pulse?style=flat-square&color=6AD3F7)](https://marketplace.visualstudio.com/items?itemName=JonhSousa.amethyst-pulse)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/JonhSousa.amethyst-pulse?style=flat-square&color=E07A3F)](https://marketplace.visualstudio.com/items?itemName=JonhSousa.amethyst-pulse#review-details)
+![Version](https://img.shields.io/visual-studio-marketplace/v/JonhSousa.amethyst-pulse?style=flat-square&label=Marketplace&color=7C3AED)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/JonhSousa.amethyst-pulse?style=flat-square&color=6AD3F7)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/JonhSousa.amethyst-pulse?style=flat-square&color=E07A3F)
 
 **An elegant VS Code theme pack with classic, soft, HC, light and Kanagawa variants — in purple, cream and orange tones.**
 
