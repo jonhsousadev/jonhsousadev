@@ -35,6 +35,21 @@ I work at the intersection of software engineering and product goals, always see
 
 ---
 
+## E-books Praticos
+
+> Hands-on eBooks with the practical knowledge the market demands — read in the morning, apply the same day.
+
+| Git: O que o mercado cobra, mas nao te conta | |
+|:---:|:---:|
+| [![Cover: Git — O que o mercado cobra, mas nao te conta](https://www.jonhsousa.com.br/assets/images/ebooks/ebook3.png)](https://www.jonhsousa.com.br/git-o-que-o-mercado-cobra.html) | |
+| *eBook · Git & Versionamento* | |
+| 11 chapters of pure practice: Conventional Commits, switch/restore, reflog, rebase and real collaboration — no version control theory. | |
+| [![Learn More](https://img.shields.io/badge/Learn_More-6AD3F7?style=flat-square)](https://www.jonhsousa.com.br/git-o-que-o-mercado-cobra.html) | |
+
+*50% OFF with coupon `CONEXAO` · 7-day guarantee · Digital eBook via Hotmart*
+
+---
+
 ## My Books — Alem do Codigo Series
 
 > Not technical books. Honest conversations about what no tutorial teaches: self-pressure, balance, rhythm and purpose in tech.
